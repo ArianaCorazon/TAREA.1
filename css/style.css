@@ -1,0 +1,125 @@
+#cara
+{
+    width: 300px;
+    background-color: rgb(225, 162, 95);
+    height: 600px;
+    margin: auto;
+    border-radius: 500px;
+}
+#oreja{
+    width: 130px;
+    background-color: rgb(169, 119, 75);
+    height: 130px; 
+    margin-bottom: 100px;
+    border-radius: 500px;
+    position: relative;
+    left: 190px;
+}
+#oreja2{
+    width: 130px;
+    background-color: rgb(169, 119, 75);
+    height: 130px; 
+    border-radius: 80px ;
+    margin-bottom: 100px;
+    position: relative;
+    bottom: 230px;
+    right: 20px;
+}
+#ojo{
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    height: 80px; 
+    position: relative;
+    border-radius: 80px;
+    bottom: 330px;
+    left: 60px;
+}
+#ojo2{
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    height: 80px; 
+    position: relative;
+    border-radius: 80px;
+    bottom: 426px;
+    left: 160px;
+}
+#ojito{
+    width: 45px;
+    background-color: rgb(0, 0, 0);
+    height: 45px; 
+    position: relative;
+    border-radius: 80px;
+    bottom: 490px;
+    left: 80px;
+}
+#ojitos2{
+    width: 45px;
+    background-color: rgb(0, 0, 0);
+    height: 45px; 
+    position: relative;
+    border-radius: 100px;
+    bottom: 551px;
+    left: 180px;
+}
+#Pancita{
+    width: 150px;
+    background-color: rgb(203, 148, 100);
+    height: 300px;
+    margin: auto;
+    border-radius: 500px;
+    position: relative;
+    bottom: 480px;
+    left: 0px;
+}
+#pata1{
+    width: 90px;
+    background-color: rgb(169, 119, 75);
+    height: 150px; 
+    margin-bottom: 100px;
+    border-radius: 500px;
+    position: relative;
+    bottom: 800px;
+    right: 0px;
+    transform: rotate(-45deg)
+}
+#pata2{
+    width: 90px;
+    background-color: rgb(169, 119, 75);
+    height: 150px; 
+    border-radius: 80px ;
+    margin-bottom: 100px;
+    position: relative;
+    bottom: 1050px;
+    right: -200px;
+    transform: rotate(45deg)
+}
+#pata3{
+    width: 130px;
+    background-color: rgb(169, 119, 75);
+    height: 130px; 
+    margin-bottom: 100px;
+    border-radius: 500px;
+    position: relative;
+    bottom: 1070px;
+    left: 190px;
+}
+#pata4{
+    width: 130px;
+    background-color: rgb(169, 119, 75);
+    height: 130px; 
+    border-radius: 80px ;
+    margin-bottom: 100px;
+    position: relative;
+    bottom: 1300px;
+    right: 20px;
+}
+#boca{
+    width: 70px;
+    background-color: rgb(116, 61, 24);
+    height: 70px; 
+    border-radius: 80px ;
+    margin-bottom: 100px;
+    position: relative;
+    bottom: 1800px;
+    right: -110px;
+}
